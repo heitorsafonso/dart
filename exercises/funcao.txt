@@ -1,0 +1,16 @@
+PARADIGMAS
+- Orientação a objetos
+- Funcional
+- Procedural 
+- Concorrente
+
+Objeto: Tem caracteristicas e ações
+Classes: 
+Parentesco: relação entre os objetos
+
+Parametro:
+- Posicionais Obrigatorios
+- Nomeados Opcionais
+- Parâmetros com "Padrão"
+- Modificador "required"
+
